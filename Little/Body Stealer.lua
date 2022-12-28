@@ -1,7 +1,7 @@
 --[[ This is what you should use when executing
 
 getgenv().URL = "https://example.com"
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SeasonalKirito/IDEK-PROJECTS/main/Little/Body%20Stealer.lua"))()
 
 --]]
 
