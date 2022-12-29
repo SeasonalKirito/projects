@@ -2,6 +2,10 @@
 ```lua
 loadstring(game:HttpGet(""))()
 ```
+# Webhook Spammer
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SeasonalKirito/IDEK-PROJECTS/main/Big/Webhook%20Spammer.lua"))()
+```
 # print script
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SeasonalKirito/IDEK-PROJECTS/main/Little/print%20script.lua"))()
