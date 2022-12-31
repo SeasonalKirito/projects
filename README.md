@@ -1,5 +1,3 @@
-# Projects
-
 This is a collection of my projects i have made that are available on Roblox and Python. There's currently around 6 projects in this repository available for free.
 If you have any issues, or notice piece of code missing within the repository please message SEASONAL#1235 on Discord or leave a message here.
 
