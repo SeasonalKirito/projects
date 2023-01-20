@@ -23,3 +23,8 @@ getgenv().URL = "https://example.com" -- The Website Which you want to steal the
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SeasonalKirito/projects/main/Roblox/Body%20Stealer%20File%20Version.lua"))()
 ```
+# Friend Detector
+```lua
+getgenv().webhook = ""
+loadstring(game:HttpGet(""))()
+```
