@@ -26,5 +26,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/SeasonalKirito/projec
 # Friend Detector
 ```lua
 getgenv().webhook = ""
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SeasonalKirito/projects/main/Roblox/Friend%20Detector.lua"))()
 ```
