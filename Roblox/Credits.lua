@@ -10,4 +10,4 @@ rconsoleprint("                         |__|  |___|_|_|_  |  |_____|___|__,|___|
 
 rconsoleprint("                                       |___|                                                                                                          \n\n")
 
-rconsoleprint("                                      Github - github.com/SeasonalKirito\n                                            Scriptblox - Seasonal\n                                           Discord - SEASONAL#1235")
+rconsoleprint("                                      Github - github.com/SeasonalKirito\n                                            Scriptblox - Seasonal\n                                           Discord - SEASONAL#8280")
