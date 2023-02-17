@@ -2,6 +2,10 @@
 ```lua
 loadstring(game:HttpGet(""))()
 ```
+# lmao
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SeasonalKirito/projects/main/Roblox/Every%20Second%20You%20Get%20%2B1%20Jump%20Power.lua"))()
+```
 # Hood Customs Gui
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SeasonalKirito/projects/main/Roblox/Hood%20Customs%20Loader"))()
